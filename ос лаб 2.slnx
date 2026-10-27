@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Lab2Main/Lab2Main.vcxproj" />
+  <Project Path="ос лаб 2.vcxproj" />
+</Solution>
